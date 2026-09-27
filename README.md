@@ -1,64 +1,3 @@
-
-None selected 
-
-Skip to content
-Using Gmail with screen readers
-in:sent 
-1 of 121
-Ai data analyst
-
-Mansi Gohil <mansigohil2005@gmail.com>
-Attachments
-26 Sept 2026, 12:12 (1 day ago)
-to Archita
-
-Linkdin description
-
-📊 AI Data Analyst — From Raw Data to Verified Findings
-
-I built a local-first AI Data Analyst that turns raw business data into analysis, evidence-backed findings, verification, and professional reports — without relying on paid AI APIs.
-
-The goal was not to build another chatbot that simply answers questions about a dataset.
-
-Instead, I designed the workflow around:
-
-Data → Deterministic Analysis → Evidence → AI Explanation → Verification → Report
-
-🔍 What it can do
-• Import Excel, CSV, JSON, Parquet and other data sources
-• Profile datasets with rows, columns, schema and data quality
-• Detect missing values, duplicates and outliers
-• Clean and transform data through Transform Studio
-• Query data using SQL
-• Perform Python-based analysis
-• Automatically generate dashboards and KPIs
-• Explore statistics, distributions and correlations
-• Forecast trends and run What-If scenarios
-• Ask business questions using local AI
-• Review supporting evidence behind findings
-• Verify and challenge analytical conclusions
-• Export results to Excel, PowerPoint and PDF
-
-🤖 Local AI
-The AI layer runs locally using Ollama + Phi-3, keeping the application designed around a local-first workflow rather than sending business data to a paid external AI API.
-
-🧠 The part I focused on most
-AI should not simply produce an answer and ask us to trust it.
-
-The application first works with the data and generates deterministic evidence. The local AI then helps explain that evidence, followed by verification and challenge steps.
-
-Import → Clean → Analyze → Visualize → AI → Verify → Forecast → Report
-
-Built with Python, Streamlit, Pandas, DuckDB, statistical analysis tools, local Ollama, and reporting/export libraries.
-
-🔗 GitHub: [add your repository link]
-
-#AI #DataAnalytics #ArtificialIntelligence #Python #Streamlit #Ollama #DataScience #BusinessIntelligence #LocalAI #MachineLearning #GitHub #BuildInPublic
-
-
-Guithub description
-
-
 📊 AI Data Analyst
 From raw business data to verified findings.
 AI Data Analyst is a local-first analytics application designed to take a dataset from import → cleaning → analysis → visualization → AI explanation → verification → reporting.
@@ -245,6 +184,8 @@ Import → Clean → Analyze → Visualize → AI → Verify → Forecast → Re
 The objective is not simply to generate an AI answer.
 
 The objective is to produce an answer that can be investigated, supported by evidence, reviewed, and exported as a usable business deliverable.
+
+
 
  2 attachment
   •  Scanned by Gmail
